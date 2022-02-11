@@ -1,0 +1,149 @@
+[
+    {
+        "Title": "Фарш грибной",
+        "Calories": "353,1 кКал",
+        "Proteins": "34 г",
+        "Fats": "20,3 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "Title": "Фарш из зеленого лука с яйцом",
+        "Calories": "89,1 кКал",
+        "Proteins": "3,1 г",
+        "Fats": "7,1 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "Title": "Фарш из картофеля и свинины",
+        "Calories": "260,3 кКал",
+        "Proteins": "9,7 г",
+        "Fats": "18,5 г",
+        "Carbohydrates": "14,7 г"
+    },
+    {
+        "Title": "Фарш из квашеной капусты",
+        "Calories": "53,8 кКал",
+        "Proteins": "1,8 г",
+        "Fats": "3,2 г",
+        "Carbohydrates": "4,7 г"
+    },
+    {
+        "Title": "Фарш из рыбы и капусты",
+        "Calories": "181,2 кКал",
+        "Proteins": "17,7 г",
+        "Fats": "11,1 г",
+        "Carbohydrates": "2,7 г"
+    },
+    {
+        "Title": "Фарш из рыбы и картофеля",
+        "Calories": "176,3 кКал",
+        "Proteins": "18,4 г",
+        "Fats": "8,8 г",
+        "Carbohydrates": "6,2 г"
+    },
+    {
+        "Title": "Фарш из рыбы и яиц",
+        "Calories": "206,2 кКал",
+        "Proteins": "20,9 г",
+        "Fats": "12,9 г",
+        "Carbohydrates": "1,7 г"
+    },
+    {
+        "Title": "Фарш из свежей капусты",
+        "Calories": "97,8 кКал",
+        "Proteins": "3,8 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "4,8 г"
+    },
+    {
+        "Title": "Фарш картофельный с грибами или луком (1-й вариант)",
+        "Calories": "148,6 кКал",
+        "Proteins": "9,2 г",
+        "Fats": "6,7 г",
+        "Carbohydrates": "13,8 г"
+    },
+    {
+        "Title": "Фарш ливерный с кашей",
+        "Calories": "380,5 кКал",
+        "Proteins": "22,9 г",
+        "Fats": "13,3 г",
+        "Carbohydrates": "45,3 г"
+    },
+    {
+        "Title": "Фарш морковный",
+        "Calories": "91,3 кКал",
+        "Proteins": "2 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "10,7 г"
+    },
+    {
+        "Title": "Фарш морковный с рисом",
+        "Calories": "188 кКал",
+        "Proteins": "3,4 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "29,1 г"
+    },
+    {
+        "Title": "Фарш морковный с яйцом",
+        "Calories": "128,9 кКал",
+        "Proteins": "3,7 г",
+        "Fats": "8,9 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "Title": "Фарш мясной с рисом и яйцом",
+        "Calories": "362,7 кКал",
+        "Proteins": "26,5 г",
+        "Fats": "20,1 г",
+        "Carbohydrates": "20,1 г"
+    },
+    {
+        "Title": "Фарш рисовый с грибами",
+        "Calories": "366,2 кКал",
+        "Proteins": "10,5 г",
+        "Fats": "8 г",
+        "Carbohydrates": "67,3 г"
+    },
+    {
+        "Title": "Фарш рисовый с яйцом",
+        "Calories": "352,9 кКал",
+        "Proteins": "8 г",
+        "Fats": "8,5 г",
+        "Carbohydrates": "65,1 г"
+    },
+    {
+        "Title": "Фарш рыбный",
+        "Calories": "286,2 кКал",
+        "Proteins": "35,4 г",
+        "Fats": "15,1 г",
+        "Carbohydrates": "2,2 г"
+    },
+    {
+        "Title": "Фарш рыбный с рисом",
+        "Calories": "291,7 кКал",
+        "Proteins": "27,2 г",
+        "Fats": "8,1 г",
+        "Carbohydrates": "29,3 г"
+    },
+    {
+        "Title": "Фарш рыбный с рисом и визигой",
+        "Calories": "241,4 кКал",
+        "Proteins": "29,8 г",
+        "Fats": "8,7 г",
+        "Carbohydrates": "11,6 г"
+    },
+    {
+        "Title": "Фарш творожный (для ватрушек, пирожков и вареников)",
+        "Calories": "266,4 кКал",
+        "Proteins": "13,1 г",
+        "Fats": "18,1 г",
+        "Carbohydrates": "13,8 г"
+    },
+    {
+        "Title": "Фарш яблочный",
+        "Calories": "149,1 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "38,3 г"
+    }
+]

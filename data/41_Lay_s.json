@@ -1,0 +1,562 @@
+[
+    {
+        "Title": "Max Мясо на Углях [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "54 г"
+    },
+    {
+        "Title": "Maxx Куриные Крылышки Барбекю [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Oven Baked [Lay's]",
+        "Calories": "443 кКал",
+        "Proteins": "5 г",
+        "Fats": "14 г",
+        "Carbohydrates": "71 г"
+    },
+    {
+        "Title": "Stax \"Колбаски Чоризо\" [Lay's]",
+        "Calories": "500 кКал",
+        "Proteins": "6 г",
+        "Fats": "27 г",
+        "Carbohydrates": "57 г"
+    },
+    {
+        "Title": "Stax Копченый Лосось [Lay's]",
+        "Calories": "500 кКал",
+        "Proteins": "6 г",
+        "Fats": "28 г",
+        "Carbohydrates": "56 г"
+    },
+    {
+        "Title": "Stax Краб [Lay's]",
+        "Calories": "490 кКал",
+        "Proteins": "5 г",
+        "Fats": "27 г",
+        "Carbohydrates": "57 г"
+    },
+    {
+        "Title": "Stax Рёбрышки Барбекю [Lay's]",
+        "Calories": "500 кКал",
+        "Proteins": "6 г",
+        "Fats": "25 г",
+        "Carbohydrates": "62 г"
+    },
+    {
+        "Title": "Stax Ребрышки Барбекю [Lay's]",
+        "Calories": "490 кКал",
+        "Proteins": "6 г",
+        "Fats": "27 г",
+        "Carbohydrates": "56 г"
+    },
+    {
+        "Title": "Stax с Луком [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "5,5 г",
+        "Fats": "30 г",
+        "Carbohydrates": "57 г"
+    },
+    {
+        "Title": "Stax с Солью [Lay's]",
+        "Calories": "530 кКал",
+        "Proteins": "5 г",
+        "Fats": "31 г",
+        "Carbohydrates": "57 г"
+    },
+    {
+        "Title": "Stax Сливочный Сыр [Lay's]",
+        "Calories": "500 кКал",
+        "Proteins": "6 г",
+        "Fats": "28 г",
+        "Carbohydrates": "55 г"
+    },
+    {
+        "Title": "Stax Сметана и Лук [Lay's]",
+        "Calories": "490 кКал",
+        "Proteins": "6 г",
+        "Fats": "27 г",
+        "Carbohydrates": "56 г"
+    },
+    {
+        "Title": "Stix Кетчуп [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Stix Сыр Чеддер [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Strong Королевская Креветка [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Strong Охотничьи Колбаски [Lay's]",
+        "Calories": "500 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "52 г"
+    },
+    {
+        "Title": "Strong Холодец с Хреном [Lay's]",
+        "Calories": "500 кКал",
+        "Proteins": "6,2 г",
+        "Fats": "30 г",
+        "Carbohydrates": "52 г"
+    },
+    {
+        "Title": "Strong Чипсы К Пиву Чеснок [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Белые Грибы со Сметаной [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "51 г"
+    },
+    {
+        "Title": "Грибы в Сливочном Соусе [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "31 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "из Печи Ароматный Укроп [Lay's]",
+        "Calories": "450 кКал",
+        "Proteins": "5 г",
+        "Fats": "17 г",
+        "Carbohydrates": "68 г"
+    },
+    {
+        "Title": "Итальянская Фокачча [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Картофельные Чипсы со Вкусом Ароматный Укроп [Lay's]",
+        "Calories": "450 кКал",
+        "Proteins": "5 г",
+        "Fats": "17 г",
+        "Carbohydrates": "69 г"
+    },
+    {
+        "Title": "Картофельные Чипсы со Вкусом Сыра [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "31 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Картошечка с Маслом и Укропом [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "52 г"
+    },
+    {
+        "Title": "Лосось в Сливочном Соусе [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Мега Бекон [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Пикантная Паприка [Lay's]",
+        "Calories": "490 кКал",
+        "Proteins": "5 г",
+        "Fats": "27 г",
+        "Carbohydrates": "57 г"
+    },
+    {
+        "Title": "Рёбрышки Гриль [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Сметана и Лук [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Соломка из Натурального Картофеля [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы «Красная Икра» [Lay's]",
+        "Calories": "530 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "54 г"
+    },
+    {
+        "Title": "Чипсы [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Black Star Burger BBQ [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Strong Королевская Креветка [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Strong Острый Чили [Lay's]",
+        "Calories": "500 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "30 г",
+        "Carbohydrates": "52 г"
+    },
+    {
+        "Title": "Чипсы Strong Охотничьи Колбаски [Lay's]",
+        "Calories": "500 кКал",
+        "Proteins": "6,4 г",
+        "Fats": "30 г",
+        "Carbohydrates": "52 г"
+    },
+    {
+        "Title": "Чипсы Аргентинские Ребрышки [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Белые Грибы со Сметаной [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "51 г"
+    },
+    {
+        "Title": "Чипсы Донер [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Зелёный Лук [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Зеленый Лук [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы из Печи Королевский Краб [Lay's]",
+        "Calories": "440 кКал",
+        "Proteins": "5,5 г",
+        "Fats": "16 г",
+        "Carbohydrates": "69 г"
+    },
+    {
+        "Title": "Чипсы из Печи Лисички в Сметане [Lay's]",
+        "Calories": "450 кКал",
+        "Proteins": "6 г",
+        "Fats": "17 г",
+        "Carbohydrates": "68 г"
+    },
+    {
+        "Title": "Чипсы из Печи Нежный Сыр с Зеленью [Lay's]",
+        "Calories": "440 кКал",
+        "Proteins": "5,5 г",
+        "Fats": "16 г",
+        "Carbohydrates": "69 г"
+    },
+    {
+        "Title": "Чипсы из Печи Сметана и Ароматные Травы [Lay's]",
+        "Calories": "440 кКал",
+        "Proteins": "5,5 г",
+        "Fats": "16 г",
+        "Carbohydrates": "69 г"
+    },
+    {
+        "Title": "Чипсы Итальянская Лазанья [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6,2 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Итальянская Фокачча [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Итальянские Колбаски [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "52 г"
+    },
+    {
+        "Title": "Чипсы К Пиву [Lay's]",
+        "Calories": "500 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "30 г",
+        "Carbohydrates": "52 г"
+    },
+    {
+        "Title": "Чипсы Краб [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Куриные Крылышки Барбекю [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Лосось в Сливочном Соусе [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Малосольные Огурчики [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Малосольные Огурчики с Укропом [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "31 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Мексиканский Буррито [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Нежный Сыр с Луком [Lay's]",
+        "Calories": "530 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "32 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Пицца 4 Сыра [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Рифленые Нежный Сыр с Луком [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Рифлёные Сметана и Лук [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Рифленые Сметана и Лук [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Рифленые со Вкусом Лобстера [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы с Беконом [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы с Крабом [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы с Красной Икрой [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "54 г"
+    },
+    {
+        "Title": "Чипсы с Паприкой [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "51 г"
+    },
+    {
+        "Title": "Чипсы с Солью [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "31 г",
+        "Carbohydrates": "52 г"
+    },
+    {
+        "Title": "Чипсы с Сыром [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "31 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы с Чесноком [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Сметана и Зелень [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Сметана и Лук [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы со Вкусом Бекона [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы со Вкусом Краба [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы со Вкусом Лосося [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "31 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы со Вкусом Сметаны и Лука [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы со Вкусом Сыра [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "32 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Сыр и Лук [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Сыр Чеддер с Луковым Мотивом [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Томаты с Нотками Ароматных Пряностей [Lay's]",
+        "Calories": "510 кКал",
+        "Proteins": "6 г",
+        "Fats": "30 г",
+        "Carbohydrates": "53 г"
+    },
+    {
+        "Title": "Чипсы Французский Сыр с Травами [Lay's]",
+        "Calories": "520 кКал",
+        "Proteins": "6 г",
+        "Fats": "31 г",
+        "Carbohydrates": "53 г"
+    }
+]

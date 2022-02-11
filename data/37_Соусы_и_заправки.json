@@ -1,0 +1,471 @@
+[
+    {
+        "Title": "Анчоусное масло",
+        "Calories": "235,3049 кКал",
+        "Proteins": "16,2388 г",
+        "Fats": "18,8155 г",
+        "Carbohydrates": "0,2524 г"
+    },
+    {
+        "Title": "Апельсиновый майонез",
+        "Calories": "514,1 кКал",
+        "Proteins": "2,7 г",
+        "Fats": "54,5 г",
+        "Carbohydrates": "3,4 г"
+    },
+    {
+        "Title": "Апельсиновый соус",
+        "Calories": "55,3 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "4,6 г",
+        "Carbohydrates": "3,1 г"
+    },
+    {
+        "Title": "Заправка горчичная",
+        "Calories": "313 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "31,3 г",
+        "Carbohydrates": "7 г"
+    },
+    {
+        "Title": "Заправка для салатов",
+        "Calories": "447,2 кКал",
+        "Proteins": "0 г",
+        "Fats": "47,5 г",
+        "Carbohydrates": "5,2 г"
+    },
+    {
+        "Title": "Коричневый соус",
+        "Calories": "97,5 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "9,1 г",
+        "Carbohydrates": "3,3 г"
+    },
+    {
+        "Title": "Маринад овощной без томата",
+        "Calories": "120 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "7,8 г",
+        "Carbohydrates": "12,1 г"
+    },
+    {
+        "Title": "Маринад овощной с томатом",
+        "Calories": "142,7 кКал",
+        "Proteins": "3,2 г",
+        "Fats": "8,7 г",
+        "Carbohydrates": "13,7 г"
+    },
+    {
+        "Title": "Масло зеленое",
+        "Calories": "558,2625 кКал",
+        "Proteins": "1,1542 г",
+        "Fats": "60,4667 г",
+        "Carbohydrates": "2,1958 г"
+    },
+    {
+        "Title": "Масло зеленое или килечное, или селедочное (селедочное)",
+        "Calories": "553,2524 кКал",
+        "Proteins": "5,0243 г",
+        "Fats": "58,6893 г",
+        "Carbohydrates": "1,2379 г"
+    },
+    {
+        "Title": "Масло с кильками",
+        "Calories": "524,7545 кКал",
+        "Proteins": "6,3909 г",
+        "Fats": "55,0455 г",
+        "Carbohydrates": "0,9455 г"
+    },
+    {
+        "Title": "Масло со шпротами или сардинами",
+        "Calories": "539,3 кКал",
+        "Proteins": "3,3 г",
+        "Fats": "57,2 г",
+        "Carbohydrates": "3,1 г"
+    },
+    {
+        "Title": "Молочный соус",
+        "Calories": "143,4 кКал",
+        "Proteins": "3 г",
+        "Fats": "11,5 г",
+        "Carbohydrates": "7,5 г"
+    },
+    {
+        "Title": "Перечная приправа",
+        "Calories": "137,8 кКал",
+        "Proteins": "2,9 г",
+        "Fats": "11 г",
+        "Carbohydrates": "7,2 г"
+    },
+    {
+        "Title": "Приятный соус",
+        "Calories": "104,7 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "9,4 г",
+        "Carbohydrates": "3,9 г"
+    },
+    {
+        "Title": "Салатная заправка",
+        "Calories": "444 кКал",
+        "Proteins": "0,1 г",
+        "Fats": "46,9 г",
+        "Carbohydrates": "5,7 г"
+    },
+    {
+        "Title": "Соус - белое вино",
+        "Calories": "214,9 кКал",
+        "Proteins": "15,4 г",
+        "Fats": "14,5 г",
+        "Carbohydrates": "6,1 г"
+    },
+    {
+        "Title": "Соус белый",
+        "Calories": "44,8 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "3,5 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "Title": "Соус белый (для запекания рыбы)",
+        "Calories": "148,6 кКал",
+        "Proteins": "15,3 г",
+        "Fats": "7,4 г",
+        "Carbohydrates": "5,5 г"
+    },
+    {
+        "Title": "Соус белый основной",
+        "Calories": "133 кКал",
+        "Proteins": "12 г",
+        "Fats": "7,4 г",
+        "Carbohydrates": "4,9 г"
+    },
+    {
+        "Title": "Соус белый с яйцом",
+        "Calories": "236,4 кКал",
+        "Proteins": "12,8 г",
+        "Fats": "18,5 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "Title": "Соус голландский",
+        "Calories": "432,8 кКал",
+        "Proteins": "5,6 г",
+        "Fats": "44,9 г",
+        "Carbohydrates": "1,6 г"
+    },
+    {
+        "Title": "Соус голландский",
+        "Calories": "114,4 кКал",
+        "Proteins": "2,4 г",
+        "Fats": "10 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "Title": "Соус грибной",
+        "Calories": "97,1 кКал",
+        "Proteins": "1,9 г",
+        "Fats": "7,7 г",
+        "Carbohydrates": "5,3 г"
+    },
+    {
+        "Title": "Соус грибной",
+        "Calories": "69,3 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "5,9 г",
+        "Carbohydrates": "3,1 г"
+    },
+    {
+        "Title": "Соус грибной с томатом",
+        "Calories": "133,6 кКал",
+        "Proteins": "2,8 г",
+        "Fats": "9,8 г",
+        "Carbohydrates": "9,1 г"
+    },
+    {
+        "Title": "Соус из зелени",
+        "Calories": "310,5 кКал",
+        "Proteins": "1,8 г",
+        "Fats": "32,3 г",
+        "Carbohydrates": "3,3 г"
+    },
+    {
+        "Title": "Соус из кильки",
+        "Calories": "68,8 кКал",
+        "Proteins": "2,7 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "Title": "Соус из масла и крутого яйца",
+        "Calories": "376,4 кКал",
+        "Proteins": "4,9 г",
+        "Fats": "39 г",
+        "Carbohydrates": "1,4 г"
+    },
+    {
+        "Title": "Соус из репчатого лука",
+        "Calories": "63,9 кКал",
+        "Proteins": "0,9 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "3,8 г"
+    },
+    {
+        "Title": "Соус из сельдерея",
+        "Calories": "243,7 кКал",
+        "Proteins": "2,8 г",
+        "Fats": "21,6 г",
+        "Carbohydrates": "10,2 г"
+    },
+    {
+        "Title": "Соус из хрена",
+        "Calories": "131,7 кКал",
+        "Proteins": "1,9 г",
+        "Fats": "10,2 г",
+        "Carbohydrates": "8,5 г"
+    },
+    {
+        "Title": "Соус из шампиньонов со сливками.",
+        "Calories": "163,1 кКал",
+        "Proteins": "4 г",
+        "Fats": "14,7 г",
+        "Carbohydrates": "4 г"
+    },
+    {
+        "Title": "Соус красный кисло-сладкий",
+        "Calories": "240,3 кКал",
+        "Proteins": "14,1 г",
+        "Fats": "5,6 г",
+        "Carbohydrates": "35,5 г"
+    },
+    {
+        "Title": "Соус красный основной",
+        "Calories": "123,1 кКал",
+        "Proteins": "9,9 г",
+        "Fats": "5 г",
+        "Carbohydrates": "10,1 г"
+    },
+    {
+        "Title": "Соус красный с вином",
+        "Calories": "186,8 кКал",
+        "Proteins": "11,2 г",
+        "Fats": "11 г",
+        "Carbohydrates": "11,4 г"
+    },
+    {
+        "Title": "Соус красный с кореньями (для тефтелей)",
+        "Calories": "189,8 кКал",
+        "Proteins": "11 г",
+        "Fats": "10,7 г",
+        "Carbohydrates": "13,1 г"
+    },
+    {
+        "Title": "Соус красный с кореньями (для тушеного мяса)",
+        "Calories": "199,6 кКал",
+        "Proteins": "12,4 г",
+        "Fats": "10 г",
+        "Carbohydrates": "16 г"
+    },
+    {
+        "Title": "Соус красный с луком и грибами (охотничий)",
+        "Calories": "201,5 кКал",
+        "Proteins": "10,1 г",
+        "Fats": "13,3 г",
+        "Carbohydrates": "11,2 г"
+    },
+    {
+        "Title": "Соус красный с луком и огурцами",
+        "Calories": "208,9 кКал",
+        "Proteins": "10,9 г",
+        "Fats": "12,9 г",
+        "Carbohydrates": "13,2 г"
+    },
+    {
+        "Title": "Соус майонез",
+        "Calories": "665,5 кКал",
+        "Proteins": "2 г",
+        "Fats": "72 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "Соус майонез с желе (банкетный)",
+        "Calories": "374,5 кКал",
+        "Proteins": "13,5 г",
+        "Fats": "35 г",
+        "Carbohydrates": "1,5 г"
+    },
+    {
+        "Title": "Соус майонез с корнишонами",
+        "Calories": "471,3 кКал",
+        "Proteins": "3,1 г",
+        "Fats": "49,9 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "Соус майонез с хреном",
+        "Calories": "522,4 кКал",
+        "Proteins": "3,4 г",
+        "Fats": "54,4 г",
+        "Carbohydrates": "5,1 г"
+    },
+    {
+        "Title": "Соус майонез со сметаной",
+        "Calories": "515,7 кКал",
+        "Proteins": "2,9 г",
+        "Fats": "54,9 г",
+        "Carbohydrates": "2,8 г"
+    },
+    {
+        "Title": "Соус молочный (для запекания овощей, мяса, рыбы)",
+        "Calories": "144,4 кКал",
+        "Proteins": "3,4 г",
+        "Fats": "10,1 г",
+        "Carbohydrates": "10,6 г"
+    },
+    {
+        "Title": "Соус молочный (для подачи к блюду)",
+        "Calories": "109 кКал",
+        "Proteins": "3,2 г",
+        "Fats": "7 г",
+        "Carbohydrates": "8,9 г"
+    },
+    {
+        "Title": "Соус молочный (сладкий)",
+        "Calories": "127,2 кКал",
+        "Proteins": "2,9 г",
+        "Fats": "5,7 г",
+        "Carbohydrates": "17,2 г"
+    },
+    {
+        "Title": "Соус молочный густой (для фарширования)",
+        "Calories": "173 кКал",
+        "Proteins": "3,6 г",
+        "Fats": "12,4 г",
+        "Carbohydrates": "12,6 г"
+    },
+    {
+        "Title": "Соус паровой",
+        "Calories": "213,5 кКал",
+        "Proteins": "15,3 г",
+        "Fats": "14,2 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "Соус польский",
+        "Calories": "559 кКал",
+        "Proteins": "5 г",
+        "Fats": "59,5 г",
+        "Carbohydrates": "1 г"
+    },
+    {
+        "Title": "Соус сметанный",
+        "Calories": "326,3 кКал",
+        "Proteins": "2,8 г",
+        "Fats": "32,3 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "Соус сметанный с томатом",
+        "Calories": "305,8 кКал",
+        "Proteins": "3 г",
+        "Fats": "29,5 г",
+        "Carbohydrates": "7,6 г"
+    },
+    {
+        "Title": "Соус сметанный с томатом и луком",
+        "Calories": "411 кКал",
+        "Proteins": "4,3 г",
+        "Fats": "38,2 г",
+        "Carbohydrates": "13,2 г"
+    },
+    {
+        "Title": "Соус сметанный с хреном",
+        "Calories": "341,7 кКал",
+        "Proteins": "3,7 г",
+        "Fats": "32,3 г",
+        "Carbohydrates": "9,7 г"
+    },
+    {
+        "Title": "Соус сухарный",
+        "Calories": "500,4 кКал",
+        "Proteins": "3,2 г",
+        "Fats": "48,8 г",
+        "Carbohydrates": "13 г"
+    },
+    {
+        "Title": "Соус татарский",
+        "Calories": "283,8 кКал",
+        "Proteins": "3,1 г",
+        "Fats": "26,1 г",
+        "Carbohydrates": "9,6 г"
+    },
+    {
+        "Title": "Соус томатный",
+        "Calories": "134 кКал",
+        "Proteins": "7,1 г",
+        "Fats": "5,6 г",
+        "Carbohydrates": "14,6 г"
+    },
+    {
+        "Title": "Соус томатный",
+        "Calories": "133,2 кКал",
+        "Proteins": "8,2 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "14,6 г"
+    },
+    {
+        "Title": "Соус томатный с грибами",
+        "Calories": "199,9 кКал",
+        "Proteins": "8,4 г",
+        "Fats": "11,6 г",
+        "Carbohydrates": "16,5 г"
+    },
+    {
+        "Title": "Соус томатный с овощами",
+        "Calories": "219,4 кКал",
+        "Proteins": "7,9 г",
+        "Fats": "14 г",
+        "Carbohydrates": "16,4 г"
+    },
+    {
+        "Title": "Соус универсальный",
+        "Calories": "211,1 кКал",
+        "Proteins": "8,8 г",
+        "Fats": "17,8 г",
+        "Carbohydrates": "4,1 г"
+    },
+    {
+        "Title": "Соус хрен (со сметаной)",
+        "Calories": "217,7 кКал",
+        "Proteins": "3,1 г",
+        "Fats": "19,3 г",
+        "Carbohydrates": "8,6 г"
+    },
+    {
+        "Title": "Сырный соус",
+        "Calories": "141,5 кКал",
+        "Proteins": "6 г",
+        "Fats": "10,8 г",
+        "Carbohydrates": "5,5 г"
+    },
+    {
+        "Title": "Творожный майонез",
+        "Calories": "290,3 кКал",
+        "Proteins": "7,6 г",
+        "Fats": "26,7 г",
+        "Carbohydrates": "5,1 г"
+    },
+    {
+        "Title": "Хлебный соус",
+        "Calories": "81,8 кКал",
+        "Proteins": "1,4 г",
+        "Fats": "7,1 г",
+        "Carbohydrates": "3,2 г"
+    },
+    {
+        "Title": "Яично-масляный соус",
+        "Calories": "321 кКал",
+        "Proteins": "3 г",
+        "Fats": "34,1 г",
+        "Carbohydrates": "0,6 г"
+    }
+]

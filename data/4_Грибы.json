@@ -1,0 +1,303 @@
+[
+    {
+        "Title": "Белый гриб",
+        "Calories": "34 кКал",
+        "Proteins": "3,7 г",
+        "Fats": "1,7 г",
+        "Carbohydrates": "1,1 г"
+    },
+    {
+        "Title": "Белый гриб сушеный",
+        "Calories": "286 кКал",
+        "Proteins": "30,3 г",
+        "Fats": "14,3 г",
+        "Carbohydrates": "9 г"
+    },
+    {
+        "Title": "Белый гриб, быстро обжаренный (стир-фрай)",
+        "Calories": "26 кКал",
+        "Proteins": "3,58 г",
+        "Fats": "0,33 г",
+        "Carbohydrates": "2,24 г"
+    },
+    {
+        "Title": "Белый гриб, вареный, без соли",
+        "Calories": "28 кКал",
+        "Proteins": "2,17 г",
+        "Fats": "0,47 г",
+        "Carbohydrates": "3,09 г"
+    },
+    {
+        "Title": "Белый гриб, вареный, с солью",
+        "Calories": "28 кКал",
+        "Proteins": "2,17 г",
+        "Fats": "0,47 г",
+        "Carbohydrates": "3,09 г"
+    },
+    {
+        "Title": "Белый гриб, выращенный под ультрафиолетом",
+        "Calories": "22 кКал",
+        "Proteins": "3,09 г",
+        "Fats": "0,34 г",
+        "Carbohydrates": "2,26 г"
+    },
+    {
+        "Title": "Белый гриб, приготовленный в микроволновке",
+        "Calories": "35 кКал",
+        "Proteins": "3,91 г",
+        "Fats": "0,46 г",
+        "Carbohydrates": "3,54 г"
+    },
+    {
+        "Title": "Белый гриб, сырой",
+        "Calories": "22 кКал",
+        "Proteins": "3,09 г",
+        "Fats": "0,34 г",
+        "Carbohydrates": "2,26 г"
+    },
+    {
+        "Title": "Вешенки",
+        "Calories": "33 кКал",
+        "Proteins": "3,31 г",
+        "Fats": "0,41 г",
+        "Carbohydrates": "3,79 г"
+    },
+    {
+        "Title": "Грибы жареные (сушеные) по 1-268",
+        "Calories": "270 кКал",
+        "Proteins": "11,3 г",
+        "Fats": "24,4 г",
+        "Carbohydrates": "1,2 г"
+    },
+    {
+        "Title": "Грибы жареные в сметанном соусе по 1-242",
+        "Calories": "172 кКал",
+        "Proteins": "6,7 г",
+        "Fats": "14,5 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "Title": "Грибы жареные с картофелем по 1-242",
+        "Calories": "114 кКал",
+        "Proteins": "3,9 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "12,7 г"
+    },
+    {
+        "Title": "Грибы, запеченные в сметанном соусе по 1-260",
+        "Calories": "188 кКал",
+        "Proteins": "6,5 г",
+        "Fats": "16,6 г",
+        "Carbohydrates": "3,2 г"
+    },
+    {
+        "Title": "Грибы, консервированные, содержимое без жидкости",
+        "Calories": "25 кКал",
+        "Proteins": "1,87 г",
+        "Fats": "0,29 г",
+        "Carbohydrates": "2,69 г"
+    },
+    {
+        "Title": "Грибы, тушенные с картофелем по 1-228",
+        "Calories": "117 кКал",
+        "Proteins": "4 г",
+        "Fats": "6,4 г",
+        "Carbohydrates": "10,7 г"
+    },
+    {
+        "Title": "Груздь",
+        "Calories": "16 кКал",
+        "Proteins": "1,8 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "0,5 г"
+    },
+    {
+        "Title": "Лисички",
+        "Calories": "32 кКал",
+        "Proteins": "1,49 г",
+        "Fats": "0,53 г",
+        "Carbohydrates": "3,06 г"
+    },
+    {
+        "Title": "Лисички",
+        "Calories": "19 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "1,1 г",
+        "Carbohydrates": "1 г"
+    },
+    {
+        "Title": "Маслята",
+        "Calories": "9 кКал",
+        "Proteins": "2,4 г",
+        "Fats": "0,7 г",
+        "Carbohydrates": "0,5 г"
+    },
+    {
+        "Title": "Опенок",
+        "Calories": "22 кКал",
+        "Proteins": "2,2 г",
+        "Fats": "1,2 г",
+        "Carbohydrates": "0,5 г"
+    },
+    {
+        "Title": "Подберезовик",
+        "Calories": "20 кКал",
+        "Proteins": "2,3 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "1,2 г"
+    },
+    {
+        "Title": "Подберезовик сушеный",
+        "Calories": "231 кКал",
+        "Proteins": "23,5 г",
+        "Fats": "9,2 г",
+        "Carbohydrates": "14,3 г"
+    },
+    {
+        "Title": "Подосиновик",
+        "Calories": "22 кКал",
+        "Proteins": "3,3 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "1,2 г"
+    },
+    {
+        "Title": "Подосиновик сушеный",
+        "Calories": "299 кКал",
+        "Proteins": "35,4 г",
+        "Fats": "5,4 г",
+        "Carbohydrates": "12,9 г"
+    },
+    {
+        "Title": "Портобелло, грибы",
+        "Calories": "22 кКал",
+        "Proteins": "2,11 г",
+        "Fats": "0,35 г",
+        "Carbohydrates": "2,57 г"
+    },
+    {
+        "Title": "Портобелло, грибы приготовленные на гриле",
+        "Calories": "29 кКал",
+        "Proteins": "3,28 г",
+        "Fats": "0,58 г",
+        "Carbohydrates": "2,24 г"
+    },
+    {
+        "Title": "Портобелло, грибы, выращенные под ультрафиолетом",
+        "Calories": "22 кКал",
+        "Proteins": "2,11 г",
+        "Fats": "0,35 г",
+        "Carbohydrates": "2,57 г"
+    },
+    {
+        "Title": "Портобелло, грибы, выращенные под ультрафиолетом, приготовленные на гриле",
+        "Calories": "29 кКал",
+        "Proteins": "3,28 г",
+        "Fats": "0,58 г",
+        "Carbohydrates": "2,24 г"
+    },
+    {
+        "Title": "Рыжик",
+        "Calories": "22 кКал",
+        "Proteins": "1,9 г",
+        "Fats": "0,8 г",
+        "Carbohydrates": "0,5 г"
+    },
+    {
+        "Title": "Сморчок, гриб",
+        "Calories": "31 кКал",
+        "Proteins": "3,12 г",
+        "Fats": "0,57 г",
+        "Carbohydrates": "2,3 г"
+    },
+    {
+        "Title": "Сморчок, гриб",
+        "Calories": "22 кКал",
+        "Proteins": "2,9 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "0,2 г"
+    },
+    {
+        "Title": "Соломенные грибы, консервированные, содержимое без жидкости",
+        "Calories": "32 кКал",
+        "Proteins": "3,83 г",
+        "Fats": "0,68 г",
+        "Carbohydrates": "2,14 г"
+    },
+    {
+        "Title": "Сыроежки",
+        "Calories": "19 кКал",
+        "Proteins": "1,7 г",
+        "Fats": "0,7 г",
+        "Carbohydrates": "1,5 г"
+    },
+    {
+        "Title": "Чернушка",
+        "Calories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Шампиньоны",
+        "Calories": "27 кКал",
+        "Proteins": "4,3 г",
+        "Fats": "1 г",
+        "Carbohydrates": "0,1 г"
+    },
+    {
+        "Title": "Шампиньоны, выращенные под ультрафиолетом",
+        "Calories": "22 кКал",
+        "Proteins": "2,5 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "3,7 г"
+    },
+    {
+        "Title": "Шампиньоны, сырые",
+        "Calories": "22 кКал",
+        "Proteins": "2,5 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "3,7 г"
+    },
+    {
+        "Title": "Шиитаке, грибы",
+        "Calories": "34 кКал",
+        "Proteins": "2,24 г",
+        "Fats": "0,49 г",
+        "Carbohydrates": "4,29 г"
+    },
+    {
+        "Title": "Шиитаке, грибы быстро обжаренные (стир-фрай)",
+        "Calories": "39 кКал",
+        "Proteins": "3,45 г",
+        "Fats": "0,35 г",
+        "Carbohydrates": "4,08 г"
+    },
+    {
+        "Title": "Шиитаке, грибы приготовленные, без соли",
+        "Calories": "56 кКал",
+        "Proteins": "1,56 г",
+        "Fats": "0,22 г",
+        "Carbohydrates": "12,29 г"
+    },
+    {
+        "Title": "Шиитаке, грибы приготовленные, с солью",
+        "Calories": "56 кКал",
+        "Proteins": "1,56 г",
+        "Fats": "0,22 г",
+        "Carbohydrates": "12,29 г"
+    },
+    {
+        "Title": "Шиитаке, грибы сушеные",
+        "Calories": "296 кКал",
+        "Proteins": "9,58 г",
+        "Fats": "0,99 г",
+        "Carbohydrates": "63,87 г"
+    },
+    {
+        "Title": "Эноки (опёнок зимний, энокитаки), грибы",
+        "Calories": "37 кКал",
+        "Proteins": "2,66 г",
+        "Fats": "0,29 г",
+        "Carbohydrates": "5,11 г"
+    }
+]

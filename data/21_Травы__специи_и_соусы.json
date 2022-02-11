@@ -1,0 +1,1192 @@
+[
+    {
+        "Title": "Аджика",
+        "Calories": "59,3 кКал",
+        "Proteins": "1 г",
+        "Fats": "3,7 г",
+        "Carbohydrates": "5,8 г"
+    },
+    {
+        "Title": "Анис, семена",
+        "Calories": "337 кКал",
+        "Proteins": "17,6 г",
+        "Fats": "15,9 г",
+        "Carbohydrates": "35,42 г"
+    },
+    {
+        "Title": "Базилик, свежий",
+        "Calories": "23 кКал",
+        "Proteins": "3,15 г",
+        "Fats": "0,64 г",
+        "Carbohydrates": "1,05 г"
+    },
+    {
+        "Title": "Базилик, сушеный",
+        "Calories": "233 кКал",
+        "Proteins": "22,98 г",
+        "Fats": "4,07 г",
+        "Carbohydrates": "10,05 г"
+    },
+    {
+        "Title": "Ванилин",
+        "Calories": "351 кКал",
+        "Proteins": "0,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "87,6 г"
+    },
+    {
+        "Title": "Ванильный экстракт",
+        "Calories": "288 кКал",
+        "Proteins": "0,06 г",
+        "Fats": "0,06 г",
+        "Carbohydrates": "12,65 г"
+    },
+    {
+        "Title": "Ванильный экстракт, искуственный, без алкоголя",
+        "Calories": "56 кКал",
+        "Proteins": "0,03 г",
+        "Fats": "0 г",
+        "Carbohydrates": "14,4 г"
+    },
+    {
+        "Title": "Ванильный экстракт, искуственный, с алкоголем",
+        "Calories": "237 кКал",
+        "Proteins": "0,05 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,41 г"
+    },
+    {
+        "Title": "Васаби",
+        "Calories": "292 кКал",
+        "Proteins": "2,23 г",
+        "Fats": "10,9 г",
+        "Carbohydrates": "40,03 г"
+    },
+    {
+        "Title": "Гвоздика, молотая",
+        "Calories": "274 кКал",
+        "Proteins": "5,97 г",
+        "Fats": "13 г",
+        "Carbohydrates": "31,63 г"
+    },
+    {
+        "Title": "Горчица желтая, приготовленная",
+        "Calories": "60 кКал",
+        "Proteins": "3,74 г",
+        "Fats": "3,34 г",
+        "Carbohydrates": "1,83 г"
+    },
+    {
+        "Title": "Горчица желтая, семена",
+        "Calories": "508 кКал",
+        "Proteins": "26,08 г",
+        "Fats": "36,24 г",
+        "Carbohydrates": "15,89 г"
+    },
+    {
+        "Title": "Горчица сарептская, соленая",
+        "Calories": "28 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "2,53 г"
+    },
+    {
+        "Title": "Горчица столовая",
+        "Calories": "143 кКал",
+        "Proteins": "9,9 г",
+        "Fats": "5,3 г",
+        "Carbohydrates": "12,7 г"
+    },
+    {
+        "Title": "Дрожжевой экстракт",
+        "Calories": "185 кКал",
+        "Proteins": "23,88 г",
+        "Fats": "0,9 г",
+        "Carbohydrates": "13,92 г"
+    },
+    {
+        "Title": "Заменитель майонеза, молочные сливки",
+        "Calories": "97 кКал",
+        "Proteins": "2,1 г",
+        "Fats": "5,1 г",
+        "Carbohydrates": "11,1 г"
+    },
+    {
+        "Title": "Заменитель майонеза, соевый",
+        "Calories": "232 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "19,2 г",
+        "Carbohydrates": "16 г"
+    },
+    {
+        "Title": "Заменитель майонеза, соевый без холестерина",
+        "Calories": "482 кКал",
+        "Proteins": "0,1 г",
+        "Fats": "47,7 г",
+        "Carbohydrates": "15,8 г"
+    },
+    {
+        "Title": "Заправка для салата Зеленая богиня",
+        "Calories": "427 кКал",
+        "Proteins": "1,9 г",
+        "Fats": "43,33 г",
+        "Carbohydrates": "7,26 г"
+    },
+    {
+        "Title": "Заправка для салата из шинкованной капусты",
+        "Calories": "404 кКал",
+        "Proteins": "0,85 г",
+        "Fats": "34,53 г",
+        "Carbohydrates": "22,4 г"
+    },
+    {
+        "Title": "Заправка для салата из шинкованной капусты, обезжиренная",
+        "Calories": "329 кКал",
+        "Proteins": "0 г",
+        "Fats": "20 г",
+        "Carbohydrates": "39,6 г"
+    },
+    {
+        "Title": "Заправка для салата итальянская, без соли, покупная",
+        "Calories": "292 кКал",
+        "Proteins": "0,38 г",
+        "Fats": "28,37 г",
+        "Carbohydrates": "10,43 г"
+    },
+    {
+        "Title": "Заправка для салата итальянская, низкокалорийная",
+        "Calories": "200 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "20 г",
+        "Carbohydrates": "6,5 г"
+    },
+    {
+        "Title": "Заправка для салата итальянская, обезжиренная",
+        "Calories": "102 кКал",
+        "Proteins": "0,39 г",
+        "Fats": "6,68 г",
+        "Carbohydrates": "9,99 г"
+    },
+    {
+        "Title": "Заправка для салата итальянская, обезжиренная",
+        "Calories": "47 кКал",
+        "Proteins": "0,97 г",
+        "Fats": "0,87 г",
+        "Carbohydrates": "8,15 г"
+    },
+    {
+        "Title": "Заправка для салата итальянская, обезжиренная, без соли",
+        "Calories": "76 кКал",
+        "Proteins": "0,47 г",
+        "Fats": "6,38 г",
+        "Carbohydrates": "4,57 г"
+    },
+    {
+        "Title": "Заправка для салата итальянская, покупная",
+        "Calories": "240 кКал",
+        "Proteins": "0,41 г",
+        "Fats": "21,12 г",
+        "Carbohydrates": "12,12 г"
+    },
+    {
+        "Title": "Заправка для салата кунжутная",
+        "Calories": "443 кКал",
+        "Proteins": "3,1 г",
+        "Fats": "45,2 г",
+        "Carbohydrates": "7,6 г"
+    },
+    {
+        "Title": "Заправка для салата с беконом и помидорами",
+        "Calories": "326 кКал",
+        "Proteins": "1,8 г",
+        "Fats": "35 г",
+        "Carbohydrates": "1,8 г"
+    },
+    {
+        "Title": "Заправка для салата с уксусом и маслом домашнего приготовления",
+        "Calories": "449 кКал",
+        "Proteins": "0 г",
+        "Fats": "50,1 г",
+        "Carbohydrates": "2,5 г"
+    },
+    {
+        "Title": "Заправка для салата Тысяча островов, обезжиренная",
+        "Calories": "195 кКал",
+        "Proteins": "0,83 г",
+        "Fats": "11,32 г",
+        "Carbohydrates": "22,86 г"
+    },
+    {
+        "Title": "Заправка для салата Тысяча островов, покупная",
+        "Calories": "379 кКал",
+        "Proteins": "1,09 г",
+        "Fats": "35,06 г",
+        "Carbohydrates": "13,84 г"
+    },
+    {
+        "Title": "Заправка для салата французская, обезжиренная",
+        "Calories": "132 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0,27 г",
+        "Carbohydrates": "29,94 г"
+    },
+    {
+        "Title": "Заправка для салата французская, по домашнему рецепту",
+        "Calories": "631 кКал",
+        "Proteins": "0,1 г",
+        "Fats": "70,2 г",
+        "Carbohydrates": "3,4 г"
+    },
+    {
+        "Title": "Заправка для салата Цезарь",
+        "Calories": "542 кКал",
+        "Proteins": "2,17 г",
+        "Fats": "57,85 г",
+        "Carbohydrates": "2,8 г"
+    },
+    {
+        "Title": "Заправка для салата Цезарь, низкокалорийная",
+        "Calories": "110 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "4,4 г",
+        "Carbohydrates": "18,5 г"
+    },
+    {
+        "Title": "Заправка для салата Цезарь, обезжиренная",
+        "Calories": "131 кКал",
+        "Proteins": "1,47 г",
+        "Fats": "0,23 г",
+        "Carbohydrates": "30,53 г"
+    },
+    {
+        "Title": "Заправка для салата, медово-горчичная, низкокалорийная",
+        "Calories": "207 кКал",
+        "Proteins": "0,98 г",
+        "Fats": "10 г",
+        "Carbohydrates": "27,46 г"
+    },
+    {
+        "Title": "Заправка для салата, обезжиренная, \"MIRACLE WHIP LIGHT\" компании KRAFT",
+        "Calories": "84 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "2,7 г",
+        "Carbohydrates": "13,6 г"
+    },
+    {
+        "Title": "Заправка для салата, обезжиренный майонез \"Mayo\" компании KRAFT",
+        "Calories": "64 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0 г",
+        "Carbohydrates": "13,8 г"
+    },
+    {
+        "Title": "Заправка для салата, пахта, легкая",
+        "Calories": "202 кКал",
+        "Proteins": "1,25 г",
+        "Fats": "12,42 г",
+        "Carbohydrates": "20,23 г"
+    },
+    {
+        "Title": "Заправка для салата, перечная, покупная",
+        "Calories": "564 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "61,4 г",
+        "Carbohydrates": "3,5 г"
+    },
+    {
+        "Title": "Заправка для салата, Ранчо (фермерская), обезжиренная",
+        "Calories": "119 кКал",
+        "Proteins": "0,25 г",
+        "Fats": "1,92 г",
+        "Carbohydrates": "26,41 г"
+    },
+    {
+        "Title": "Заправка для салата, Ранчо (фермерская), обезжиренная",
+        "Calories": "196 кКал",
+        "Proteins": "1,25 г",
+        "Fats": "12,42 г",
+        "Carbohydrates": "20,23 г"
+    },
+    {
+        "Title": "Заправка для салата, Ранчо (фермерская), покупная",
+        "Calories": "430 кКал",
+        "Proteins": "1,32 г",
+        "Fats": "44,54 г",
+        "Carbohydrates": "5,9 г"
+    },
+    {
+        "Title": "Заправка для салата, русская",
+        "Calories": "355 кКал",
+        "Proteins": "0,69 г",
+        "Fats": "26,18 г",
+        "Carbohydrates": "31,2 г"
+    },
+    {
+        "Title": "Заправка для салата, русская, низкокалорийная",
+        "Calories": "141 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "4 г",
+        "Carbohydrates": "27,3 г"
+    },
+    {
+        "Title": "Заправка для салата, с голубым сыром или сыром рокфор, низкокалорийная",
+        "Calories": "99 кКал",
+        "Proteins": "5,1 г",
+        "Fats": "7,2 г",
+        "Carbohydrates": "2,9 г"
+    },
+    {
+        "Title": "Заправка для салата, с голубым сыром или сыром рокфор, низкокалорийная",
+        "Calories": "86 кКал",
+        "Proteins": "2,1 г",
+        "Fats": "2,7 г",
+        "Carbohydrates": "13,2 г"
+    },
+    {
+        "Title": "Заправка для салата, с голубым сыром или сыром рокфор, обезжиренная",
+        "Calories": "115 кКал",
+        "Proteins": "1,52 г",
+        "Fats": "1,01 г",
+        "Carbohydrates": "23,8 г"
+    },
+    {
+        "Title": "Заправка для салата, с голубым сыром или сыром рокфор, покупная",
+        "Calories": "484 кКал",
+        "Proteins": "1,37 г",
+        "Fats": "51,1 г",
+        "Carbohydrates": "4,37 г"
+    },
+    {
+        "Title": "Заправка для салата, с различными запахами в ассортименте, в спрее",
+        "Calories": "165 кКал",
+        "Proteins": "0,16 г",
+        "Fats": "10,75 г",
+        "Carbohydrates": "16,3 г"
+    },
+    {
+        "Title": "Заправка для салата, Тысяча островов, обезжиренная",
+        "Calories": "132 кКал",
+        "Proteins": "0,55 г",
+        "Fats": "1,45 г",
+        "Carbohydrates": "25,97 г"
+    },
+    {
+        "Title": "Заправка для салата, французская, без соли, покупная",
+        "Calories": "459 кКал",
+        "Proteins": "0,77 г",
+        "Fats": "44,81 г",
+        "Carbohydrates": "15,58 г"
+    },
+    {
+        "Title": "Заправка для салата, французская, низкокалорийная",
+        "Calories": "227 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "13 г",
+        "Carbohydrates": "27 г"
+    },
+    {
+        "Title": "Заправка для салата, французская, обезжиренная",
+        "Calories": "222 кКал",
+        "Proteins": "0,58 г",
+        "Fats": "11,52 г",
+        "Carbohydrates": "29,72 г"
+    },
+    {
+        "Title": "Заправка для салата, французская, обезжиренная, без соли",
+        "Calories": "233 кКал",
+        "Proteins": "0,58 г",
+        "Fats": "13,46 г",
+        "Carbohydrates": "28,18 г"
+    },
+    {
+        "Title": "Заправка для салата, французская, покупная",
+        "Calories": "419 кКал",
+        "Proteins": "0,87 г",
+        "Fats": "39,07 г",
+        "Carbohydrates": "16,39 г"
+    },
+    {
+        "Title": "Заправка для салата, французская, с хлопковым маслом по домашнему рецепту",
+        "Calories": "631 кКал",
+        "Proteins": "0,1 г",
+        "Fats": "70,2 г",
+        "Carbohydrates": "3,4 г"
+    },
+    {
+        "Title": "Зира, семена",
+        "Calories": "375 кКал",
+        "Proteins": "17,81 г",
+        "Fats": "22,27 г",
+        "Carbohydrates": "33,74 г"
+    },
+    {
+        "Title": "Ива, молодые листья, нарубленные, (Аляска)",
+        "Calories": "122 кКал",
+        "Proteins": "6,1 г",
+        "Fats": "1,6 г",
+        "Carbohydrates": "20,7 г"
+    },
+    {
+        "Title": "Иван-чай узколистный, листья, сырой",
+        "Calories": "103 кКал",
+        "Proteins": "4,71 г",
+        "Fats": "2,75 г",
+        "Carbohydrates": "8,62 г"
+    },
+    {
+        "Title": "Имбирь, крень сушеный молотый",
+        "Calories": "335 кКал",
+        "Proteins": "8,98 г",
+        "Fats": "4,24 г",
+        "Carbohydrates": "57,52 г"
+    },
+    {
+        "Title": "Кардамон",
+        "Calories": "311 кКал",
+        "Proteins": "10,76 г",
+        "Fats": "6,7 г",
+        "Carbohydrates": "40,47 г"
+    },
+    {
+        "Title": "Карри, порошок",
+        "Calories": "325 кКал",
+        "Proteins": "14,29 г",
+        "Fats": "14,01 г",
+        "Carbohydrates": "2,63 г"
+    },
+    {
+        "Title": "Кервель, сушеный",
+        "Calories": "237 кКал",
+        "Proteins": "23,2 г",
+        "Fats": "3,9 г",
+        "Carbohydrates": "37,8 г"
+    },
+    {
+        "Title": "Кетчуп",
+        "Calories": "101 кКал",
+        "Proteins": "1,04 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "27,1 г"
+    },
+    {
+        "Title": "Кетчуп с пониженым содержанием соли",
+        "Calories": "101 кКал",
+        "Proteins": "1,04 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "27,1 г"
+    },
+    {
+        "Title": "Кориандр (кинза), листья, сушеные",
+        "Calories": "279 кКал",
+        "Proteins": "21,93 г",
+        "Fats": "4,78 г",
+        "Carbohydrates": "41,7 г"
+    },
+    {
+        "Title": "Кориандр, семена",
+        "Calories": "298 кКал",
+        "Proteins": "12,37 г",
+        "Fats": "17,77 г",
+        "Carbohydrates": "13,09 г"
+    },
+    {
+        "Title": "Корица, молотая",
+        "Calories": "247 кКал",
+        "Proteins": "3,99 г",
+        "Fats": "1,24 г",
+        "Carbohydrates": "27,49 г"
+    },
+    {
+        "Title": "Куркума, молотая",
+        "Calories": "312 кКал",
+        "Proteins": "9,68 г",
+        "Fats": "3,25 г",
+        "Carbohydrates": "44,44 г"
+    },
+    {
+        "Title": "Лавровый лист",
+        "Calories": "313 кКал",
+        "Proteins": "7,61 г",
+        "Fats": "8,36 г",
+        "Carbohydrates": "48,67 г"
+    },
+    {
+        "Title": "Лемонграсс (цимбопогон), сырой",
+        "Calories": "99 кКал",
+        "Proteins": "1,82 г",
+        "Fats": "0,49 г",
+        "Carbohydrates": "25,31 г"
+    },
+    {
+        "Title": "Лимонная кислота",
+        "Calories": "250 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Лук-шалот, сублимированный",
+        "Calories": "348 кКал",
+        "Proteins": "12,3 г",
+        "Fats": "0,5 г",
+        "Carbohydrates": "65 г"
+    },
+    {
+        "Title": "Луковый порошок",
+        "Calories": "341 кКал",
+        "Proteins": "10,41 г",
+        "Fats": "1,04 г",
+        "Carbohydrates": "63,92 г"
+    },
+    {
+        "Title": "Майонез «Провансаль», 67% жирности",
+        "Calories": "629 кКал",
+        "Proteins": "2,8 г",
+        "Fats": "67 г",
+        "Carbohydrates": "3,7 г"
+    },
+    {
+        "Title": "Майонез легкий  \"Mayo Light\" компании KRAFT",
+        "Calories": "334 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "32,9 г",
+        "Carbohydrates": "8,4 г"
+    },
+    {
+        "Title": "Майонез легкий, 22% жирности",
+        "Calories": "238 кКал",
+        "Proteins": "0,37 г",
+        "Fats": "22,22 г",
+        "Carbohydrates": "9,23 г"
+    },
+    {
+        "Title": "Майонез на основе соевого масла, без соли",
+        "Calories": "717 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "79,4 г",
+        "Carbohydrates": "2,7 г"
+    },
+    {
+        "Title": "Майонез низкокалорийный",
+        "Calories": "263 кКал",
+        "Proteins": "0,9 г",
+        "Fats": "19 г",
+        "Carbohydrates": "23,9 г"
+    },
+    {
+        "Title": "Майонез с тофу",
+        "Calories": "322 кКал",
+        "Proteins": "5,95 г",
+        "Fats": "31,79 г",
+        "Carbohydrates": "1,96 г"
+    },
+    {
+        "Title": "Майонез столовый молочный, 67% жирности",
+        "Calories": "627 кКал",
+        "Proteins": "2,4 г",
+        "Fats": "67 г",
+        "Carbohydrates": "3,9 г"
+    },
+    {
+        "Title": "Майонез, 33% жирности, без холестерина",
+        "Calories": "333 кКал",
+        "Proteins": "0,9 г",
+        "Fats": "33,3 г",
+        "Carbohydrates": "6,7 г"
+    },
+    {
+        "Title": "Майонез, 40% жирности, с оливковым маслом",
+        "Calories": "361 кКал",
+        "Proteins": "0,37 г",
+        "Fats": "40 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Майонез, 78% жирности, без холестерина",
+        "Calories": "688 кКал",
+        "Proteins": "0 г",
+        "Fats": "77,8 г",
+        "Carbohydrates": "0,3 г"
+    },
+    {
+        "Title": "Майонез, лекгий, SMART BALANCE, Omega Plus light, 34% жира",
+        "Calories": "333 кКал",
+        "Proteins": "1,53 г",
+        "Fats": "34,18 г",
+        "Carbohydrates": "9,19 г"
+    },
+    {
+        "Title": "Майонез, обезжиренный",
+        "Calories": "84 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "2,7 г",
+        "Carbohydrates": "13,6 г"
+    },
+    {
+        "Title": "Майонез, с соевым и сафлоровым маслом и солью",
+        "Calories": "717 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "79,4 г",
+        "Carbohydrates": "2,7 г"
+    },
+    {
+        "Title": "Майонез, с соевым маслом и солью",
+        "Calories": "680 кКал",
+        "Proteins": "0,96 г",
+        "Fats": "74,85 г",
+        "Carbohydrates": "0,57 г"
+    },
+    {
+        "Title": "Майонез, с солью",
+        "Calories": "250 кКал",
+        "Proteins": "0,65 г",
+        "Fats": "21,6 г",
+        "Carbohydrates": "14,78 г"
+    },
+    {
+        "Title": "Майонез,19% жирности, безсолевой, низкокалорийный или диетический",
+        "Calories": "231 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "19,2 г",
+        "Carbohydrates": "16 г"
+    },
+    {
+        "Title": "Майоран, сушеный",
+        "Calories": "271 кКал",
+        "Proteins": "12,66 г",
+        "Fats": "7,04 г",
+        "Carbohydrates": "20,26 г"
+    },
+    {
+        "Title": "Маннит",
+        "Calories": "376 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "98,9 г"
+    },
+    {
+        "Title": "Маринад овощной без томата по 2-106",
+        "Calories": "134 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "9,1 г",
+        "Carbohydrates": "10,5 г"
+    },
+    {
+        "Title": "Мускатный орех, молотый",
+        "Calories": "525 кКал",
+        "Proteins": "5,84 г",
+        "Fats": "36,31 г",
+        "Carbohydrates": "28,49 г"
+    },
+    {
+        "Title": "Мускатный цвет, молотый",
+        "Calories": "475 кКал",
+        "Proteins": "6,71 г",
+        "Fats": "32,38 г",
+        "Carbohydrates": "30,3 г"
+    },
+    {
+        "Title": "Мята колосистая, свежая",
+        "Calories": "44 кКал",
+        "Proteins": "3,29 г",
+        "Fats": "0,73 г",
+        "Carbohydrates": "1,61 г"
+    },
+    {
+        "Title": "Мята колосистая, сушеная",
+        "Calories": "285 кКал",
+        "Proteins": "19,93 г",
+        "Fats": "6,03 г",
+        "Carbohydrates": "22,24 г"
+    },
+    {
+        "Title": "Мята перечная, свежая",
+        "Calories": "70 кКал",
+        "Proteins": "3,75 г",
+        "Fats": "0,94 г",
+        "Carbohydrates": "6,89 г"
+    },
+    {
+        "Title": "Орегано, сушеный",
+        "Calories": "265 кКал",
+        "Proteins": "9 г",
+        "Fats": "4,28 г",
+        "Carbohydrates": "26,42 г"
+    },
+    {
+        "Title": "Пажитник, семена",
+        "Calories": "323 кКал",
+        "Proteins": "23 г",
+        "Fats": "6,41 г",
+        "Carbohydrates": "33,75 г"
+    },
+    {
+        "Title": "Паприка, перец сладкий молотый",
+        "Calories": "282 кКал",
+        "Proteins": "14,14 г",
+        "Fats": "12,89 г",
+        "Carbohydrates": "19,09 г"
+    },
+    {
+        "Title": "Паста для сэндвичей с порезанными маринованными огурцами на масляной основе",
+        "Calories": "389 кКал",
+        "Proteins": "0,9 г",
+        "Fats": "34 г",
+        "Carbohydrates": "22 г"
+    },
+    {
+        "Title": "Перец белый",
+        "Calories": "296 кКал",
+        "Proteins": "10,4 г",
+        "Fats": "2,12 г",
+        "Carbohydrates": "42,41 г"
+    },
+    {
+        "Title": "Перец душистый, молотый",
+        "Calories": "263 кКал",
+        "Proteins": "6,09 г",
+        "Fats": "8,69 г",
+        "Carbohydrates": "50,52 г"
+    },
+    {
+        "Title": "Перец красный молотый острый",
+        "Calories": "318 кКал",
+        "Proteins": "12,01 г",
+        "Fats": "17,27 г",
+        "Carbohydrates": "29,43 г"
+    },
+    {
+        "Title": "Перец черный,  молотый или горошек",
+        "Calories": "251 кКал",
+        "Proteins": "10,39 г",
+        "Fats": "3,26 г",
+        "Carbohydrates": "38,65 г"
+    },
+    {
+        "Title": "Петрушка сушеная",
+        "Calories": "292 кКал",
+        "Proteins": "26,63 г",
+        "Fats": "5,48 г",
+        "Carbohydrates": "23,94 г"
+    },
+    {
+        "Title": "Пищевая сода",
+        "Calories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Приправа для птицы",
+        "Calories": "307 кКал",
+        "Proteins": "9,59 г",
+        "Fats": "7,53 г",
+        "Carbohydrates": "54,29 г"
+    },
+    {
+        "Title": "Приправа для тыквенного пирога",
+        "Calories": "342 кКал",
+        "Proteins": "5,76 г",
+        "Fats": "12,6 г",
+        "Carbohydrates": "54,48 г"
+    },
+    {
+        "Title": "Рассол соли",
+        "Calories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Розмарин, свежий",
+        "Calories": "131 кКал",
+        "Proteins": "3,31 г",
+        "Fats": "5,86 г",
+        "Carbohydrates": "6,6 г"
+    },
+    {
+        "Title": "Розмарин, сушеный",
+        "Calories": "331 кКал",
+        "Proteins": "4,88 г",
+        "Fats": "15,22 г",
+        "Carbohydrates": "21,46 г"
+    },
+    {
+        "Title": "Сельдерей корень сушеный",
+        "Calories": "191 кКал",
+        "Proteins": "7,8 г",
+        "Fats": "2 г",
+        "Carbohydrates": "36,6 г"
+    },
+    {
+        "Title": "Сельдерей, семя",
+        "Calories": "392 кКал",
+        "Proteins": "18,07 г",
+        "Fats": "25,27 г",
+        "Carbohydrates": "29,55 г"
+    },
+    {
+        "Title": "Сливочная заправка, приготовленная из сметаны и/или пахты и масла, низкокалорийная",
+        "Calories": "160 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "14 г",
+        "Carbohydrates": "7 г"
+    },
+    {
+        "Title": "Сливочная заправка, приготовленная из сметаны и/или пахты и масла, низкокалорийная, без холестерина",
+        "Calories": "140 кКал",
+        "Proteins": "1 г",
+        "Fats": "8 г",
+        "Carbohydrates": "16 г"
+    },
+    {
+        "Title": "Сливочная заправка, приготовленная из сметаны и/или пахты и масла, низкокалорийная, обезжиренная",
+        "Calories": "107 кКал",
+        "Proteins": "1,4 г",
+        "Fats": "2,7 г",
+        "Carbohydrates": "20 г"
+    },
+    {
+        "Title": "Соевый соус",
+        "Calories": "53 кКал",
+        "Proteins": "8,14 г",
+        "Fats": "0,57 г",
+        "Carbohydrates": "4,13 г"
+    },
+    {
+        "Title": "Соевый соус, из гидролизованного овощного белка",
+        "Calories": "60 кКал",
+        "Proteins": "7 г",
+        "Fats": "0,51 г",
+        "Carbohydrates": "7,34 г"
+    },
+    {
+        "Title": "Соевый соус, из гидролизованного овощного белка, с пониженным содержанием нартия",
+        "Calories": "90 кКал",
+        "Proteins": "8,19 г",
+        "Fats": "0,31 г",
+        "Carbohydrates": "14,14 г"
+    },
+    {
+        "Title": "Соевый соус, с пониженным содержанием нартия",
+        "Calories": "57 кКал",
+        "Proteins": "9,05 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "4,89 г"
+    },
+    {
+        "Title": "Соевый соус, тамари (только из сои, без пшеничной муки)",
+        "Calories": "60 кКал",
+        "Proteins": "10,51 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "4,77 г"
+    },
+    {
+        "Title": "Соль поваренная пищевая",
+        "Calories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Соль столовая",
+        "Calories": "0 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Соус белый основной по 2-82",
+        "Calories": "56 кКал",
+        "Proteins": "1 г",
+        "Fats": "4,1 г",
+        "Carbohydrates": "3,8 г"
+    },
+    {
+        "Title": "Соус грибной по 2-96",
+        "Calories": "82 кКал",
+        "Proteins": "1,2 г",
+        "Fats": "6,2 г",
+        "Carbohydrates": "4,8 г"
+    },
+    {
+        "Title": "Соус кисло-сладкий",
+        "Calories": "15 кКал",
+        "Proteins": "0,1 г",
+        "Fats": "0 г",
+        "Carbohydrates": "3,7 г"
+    },
+    {
+        "Title": "Соус клюквенный по 2-112",
+        "Calories": "51 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "12,6 г"
+    },
+    {
+        "Title": "Соус красный основной по 2-74",
+        "Calories": "48 кКал",
+        "Proteins": "1,1 г",
+        "Fats": "2 г",
+        "Carbohydrates": "6,2 г"
+    },
+    {
+        "Title": "Соус луковый по 2-76",
+        "Calories": "75 кКал",
+        "Proteins": "1,3 г",
+        "Fats": "4,8 г",
+        "Carbohydrates": "6,1 г"
+    },
+    {
+        "Title": "Соус майонез со сметаной по 2-102",
+        "Calories": "312 кКал",
+        "Proteins": "2,8 г",
+        "Fats": "31,9 г",
+        "Carbohydrates": "3,3 г"
+    },
+    {
+        "Title": "Соус маковый, кремовый",
+        "Calories": "399 кКал",
+        "Proteins": "0,92 г",
+        "Fats": "33,33 г",
+        "Carbohydrates": "23,43 г"
+    },
+    {
+        "Title": "Соус медово-горчичный",
+        "Calories": "464 кКал",
+        "Proteins": "0,87 г",
+        "Fats": "40,83 г",
+        "Carbohydrates": "22,93 г"
+    },
+    {
+        "Title": "Соус медово-горчичный обезжиренный",
+        "Calories": "169 кКал",
+        "Proteins": "1,07 г",
+        "Fats": "1,47 г",
+        "Carbohydrates": "37,23 г"
+    },
+    {
+        "Title": "Соус молочный по 2-92",
+        "Calories": "84 кКал",
+        "Proteins": "2 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "7,1 г"
+    },
+    {
+        "Title": "Соус песто, готовый к употреблению, длительного хранения",
+        "Calories": "426 кКал",
+        "Proteins": "5 г",
+        "Fats": "42,42 г",
+        "Carbohydrates": "4,44 г"
+    },
+    {
+        "Title": "Соус песто, готовый к употреблению, охлажденный",
+        "Calories": "418 кКал",
+        "Proteins": "9,83 г",
+        "Fats": "37,6 г",
+        "Carbohydrates": "8,29 г"
+    },
+    {
+        "Title": "Соус польский по 2-98",
+        "Calories": "78 кКал",
+        "Proteins": "2,6 г",
+        "Fats": "6,1 г",
+        "Carbohydrates": "3 г"
+    },
+    {
+        "Title": "Соус с хреном по 2-104",
+        "Calories": "27 кКал",
+        "Proteins": "0,7 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "4,2 г"
+    },
+    {
+        "Title": "Соус сметанный по 2-94",
+        "Calories": "78 кКал",
+        "Proteins": "1,9 г",
+        "Fats": "5,2 г",
+        "Carbohydrates": "5,7 г"
+    },
+    {
+        "Title": "Соус Табаско с остым перцем",
+        "Calories": "12 кКал",
+        "Proteins": "1,29 г",
+        "Fats": "0,76 г",
+        "Carbohydrates": "0,2 г"
+    },
+    {
+        "Title": "Соус томатный острый",
+        "Calories": "99 кКал",
+        "Proteins": "2,5 г",
+        "Fats": "0 г",
+        "Carbohydrates": "21,2 г"
+    },
+    {
+        "Title": "Соус томатный по 2-84",
+        "Calories": "80 кКал",
+        "Proteins": "1,7 г",
+        "Fats": "4,5 г",
+        "Carbohydrates": "7,8 г"
+    },
+    {
+        "Title": "Соус черносмородиновый по 2-110",
+        "Calories": "275 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "67,6 г"
+    },
+    {
+        "Title": "Соус чили шрирача",
+        "Calories": "93 кКал",
+        "Proteins": "1,93 г",
+        "Fats": "0,93 г",
+        "Carbohydrates": "16,96 г"
+    },
+    {
+        "Title": "Тимьян, свежий",
+        "Calories": "101 кКал",
+        "Proteins": "5,56 г",
+        "Fats": "1,68 г",
+        "Carbohydrates": "10,45 г"
+    },
+    {
+        "Title": "Тимьян, сушеный",
+        "Calories": "276 кКал",
+        "Proteins": "9,11 г",
+        "Fats": "7,43 г",
+        "Carbohydrates": "26,94 г"
+    },
+    {
+        "Title": "Тмин, семена",
+        "Calories": "333 кКал",
+        "Proteins": "19,77 г",
+        "Fats": "14,59 г",
+        "Carbohydrates": "11,9 г"
+    },
+    {
+        "Title": "Укроп, семена",
+        "Calories": "305 кКал",
+        "Proteins": "15,98 г",
+        "Fats": "14,54 г",
+        "Carbohydrates": "34,07 г"
+    },
+    {
+        "Title": "Укроп, сушеный",
+        "Calories": "253 кКал",
+        "Proteins": "19,96 г",
+        "Fats": "4,36 г",
+        "Carbohydrates": "42,22 г"
+    },
+    {
+        "Title": "Уксус бальзамический",
+        "Calories": "88 кКал",
+        "Proteins": "0,49 г",
+        "Fats": "0 г",
+        "Carbohydrates": "17,03 г"
+    },
+    {
+        "Title": "Уксус винный 3%",
+        "Calories": "9 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Уксус винный, красный",
+        "Calories": "19 кКал",
+        "Proteins": "0,04 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0,27 г"
+    },
+    {
+        "Title": "Уксус спиртовой",
+        "Calories": "18 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0,04 г"
+    },
+    {
+        "Title": "Уксус столовый 9%",
+        "Calories": "32 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Уксус яблочный",
+        "Calories": "21 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0,93 г"
+    },
+    {
+        "Title": "Фенхель, семена",
+        "Calories": "345 кКал",
+        "Proteins": "15,8 г",
+        "Fats": "14,87 г",
+        "Carbohydrates": "12,49 г"
+    },
+    {
+        "Title": "Хрен, корень",
+        "Calories": "59 кКал",
+        "Proteins": "3,2 г",
+        "Fats": "0,4 г",
+        "Carbohydrates": "10,5 г"
+    },
+    {
+        "Title": "Хрен, соус приготовленный",
+        "Calories": "48 кКал",
+        "Proteins": "1,18 г",
+        "Fats": "0,69 г",
+        "Carbohydrates": "7,99 г"
+    },
+    {
+        "Title": "Чабер, молотый",
+        "Calories": "272 кКал",
+        "Proteins": "6,73 г",
+        "Fats": "5,91 г",
+        "Carbohydrates": "23,03 г"
+    },
+    {
+        "Title": "Чеснок, порошок",
+        "Calories": "331 кКал",
+        "Proteins": "16,55 г",
+        "Fats": "0,73 г",
+        "Carbohydrates": "63,73 г"
+    },
+    {
+        "Title": "Чили, порошок",
+        "Calories": "282 кКал",
+        "Proteins": "13,46 г",
+        "Fats": "14,28 г",
+        "Carbohydrates": "14,9 г"
+    },
+    {
+        "Title": "Шалфей, молотый",
+        "Calories": "315 кКал",
+        "Proteins": "10,63 г",
+        "Fats": "12,75 г",
+        "Carbohydrates": "20,43 г"
+    },
+    {
+        "Title": "Шафран",
+        "Calories": "310 кКал",
+        "Proteins": "11,43 г",
+        "Fats": "5,85 г",
+        "Carbohydrates": "61,47 г"
+    },
+    {
+        "Title": "Эстрагон (тархун), зелень свежая",
+        "Calories": "24,8 кКал",
+        "Proteins": "1,5 г",
+        "Fats": "0,008 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "Title": "Эстрагон, сушеный",
+        "Calories": "295 кКал",
+        "Proteins": "22,77 г",
+        "Fats": "7,24 г",
+        "Carbohydrates": "42,82 г"
+    }
+]

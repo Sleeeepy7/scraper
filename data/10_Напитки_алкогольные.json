@@ -1,0 +1,548 @@
+[
+    {
+        "Title": "Вина десертные",
+        "Calories": "172 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0 г",
+        "Carbohydrates": "20 г"
+    },
+    {
+        "Title": "Вина крепкие",
+        "Calories": "163 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0 г",
+        "Carbohydrates": "12 г"
+    },
+    {
+        "Title": "Вина ликерные",
+        "Calories": "212 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0 г",
+        "Carbohydrates": "30 г"
+    },
+    {
+        "Title": "Вина полудесертные",
+        "Calories": "140 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0 г",
+        "Carbohydrates": "12 г"
+    },
+    {
+        "Title": "Вина полусладкие белые и красные (в т. ч. шампанское)",
+        "Calories": "88 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "Title": "Вина полусухие белые и красные (в т. ч. шампанское)",
+        "Calories": "78 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,5 г"
+    },
+    {
+        "Title": "Вина сладкие белые и красные (в т. ч. шампанское)",
+        "Calories": "100 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0 г",
+        "Carbohydrates": "8 г"
+    },
+    {
+        "Title": "Вина сухие белые и красные (в т. ч. шампанское)",
+        "Calories": "64 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0,3 г"
+    },
+    {
+        "Title": "Вино,  десертное, сухое",
+        "Calories": "152 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0 г",
+        "Carbohydrates": "11,67 г"
+    },
+    {
+        "Title": "Вино, безалкогольное",
+        "Calories": "6 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0 г",
+        "Carbohydrates": "1,1 г"
+    },
+    {
+        "Title": "Вино, десертное, сладкое",
+        "Calories": "160 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0 г",
+        "Carbohydrates": "13,69 г"
+    },
+    {
+        "Title": "Вино, кулинарное",
+        "Calories": "50 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0 г",
+        "Carbohydrates": "6,3 г"
+    },
+    {
+        "Title": "Вино, легкое",
+        "Calories": "49 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "1,17 г"
+    },
+    {
+        "Title": "Вино, столовое, белое",
+        "Calories": "82 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "Вино, столовое, белое, Гевюрцтраминер (Gewurztraminer)",
+        "Calories": "81 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,6 г"
+    },
+    {
+        "Title": "Вино, столовое, белое, Лэйт Харвест (late harvest)",
+        "Calories": "112 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "13,39 г"
+    },
+    {
+        "Title": "Вино, столовое, белое, Мускат (Muscat)",
+        "Calories": "82 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "5,23 г"
+    },
+    {
+        "Title": "Вино, столовое, белое, Мюллер-Тургау (Muller Thurgau)",
+        "Calories": "76 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "3,48 г"
+    },
+    {
+        "Title": "Вино, столовое, белое, Пино Блан (Pinot Blanc)",
+        "Calories": "81 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "1,94 г"
+    },
+    {
+        "Title": "Вино, столовое, белое, Пино Гри (Pinot Gris (Grigio))",
+        "Calories": "83 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,06 г"
+    },
+    {
+        "Title": "Вино, столовое, белое, Рислинг (Riesling)",
+        "Calories": "80 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "3,74 г"
+    },
+    {
+        "Title": "Вино, столовое, белое, Семильон (Semillon)",
+        "Calories": "82 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "3,12 г"
+    },
+    {
+        "Title": "Вино, столовое, белое, Совиньон Блан (Sauvignon Blanc)",
+        "Calories": "81 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,05 г"
+    },
+    {
+        "Title": "Вино, столовое, белое, Фюмэ Блан (Fume Blanc)",
+        "Calories": "82 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,27 г"
+    },
+    {
+        "Title": "Вино, столовое, белое, Шенен Блан (Chenin Blanc)",
+        "Calories": "80 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "3,31 г"
+    },
+    {
+        "Title": "Вино, столовое, все виды",
+        "Calories": "83 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,72 г"
+    },
+    {
+        "Title": "Вино, столовое, красное",
+        "Calories": "85 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,61 г"
+    },
+    {
+        "Title": "Вино, столовое, красное, Барбера (Barbera)",
+        "Calories": "85 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,79 г"
+    },
+    {
+        "Title": "Вино, столовое, красное, Бургундское (Burgundy)",
+        "Calories": "86 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "3,69 г"
+    },
+    {
+        "Title": "Вино, столовое, красное, Гаме (Gamay)",
+        "Calories": "78 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,38 г"
+    },
+    {
+        "Title": "Вино, столовое, красное, Зинфандель (Zinfandel)",
+        "Calories": "88 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,86 г"
+    },
+    {
+        "Title": "Вино, столовое, красное, Каберне Фран (Cabernet Franc)",
+        "Calories": "83 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,45 г"
+    },
+    {
+        "Title": "Вино, столовое, красное, Кариньян (Carignane)",
+        "Calories": "74 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,4 г"
+    },
+    {
+        "Title": "Вино, столовое, красное, Кларет (Claret)",
+        "Calories": "83 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "3,01 г"
+    },
+    {
+        "Title": "Вино, столовое, красное, Лембергер (Lemberger)",
+        "Calories": "80 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,46 г"
+    },
+    {
+        "Title": "Вино, столовое, красное, Мерло (Merlot)",
+        "Calories": "83 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,51 г"
+    },
+    {
+        "Title": "Вино, столовое, красное, Мурведр (Mouvedre)",
+        "Calories": "88 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,64 г"
+    },
+    {
+        "Title": "Вино, столовое, красное, Пино Нуар (Pinot Noir)",
+        "Calories": "82 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,31 г"
+    },
+    {
+        "Title": "Вино, столовое, красное, Пти Шираз (Petite Sirah)",
+        "Calories": "85 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,68 г"
+    },
+    {
+        "Title": "Вино, столовое, красное, Санджовезе (Sangiovese)",
+        "Calories": "86 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,62 г"
+    },
+    {
+        "Title": "Вино, столовое, красное, Шираз (Syrah)",
+        "Calories": "83 кКал",
+        "Proteins": "0,07 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,58 г"
+    },
+    {
+        "Title": "Водка",
+        "Calories": "235 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0,4 г"
+    },
+    {
+        "Title": "Водка, дистиллированная, 80 градусов (40 проц. спирта)",
+        "Calories": "231 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Дайкири, консервированный",
+        "Calories": "125 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "15,7 г"
+    },
+    {
+        "Title": "Дайкири, приготовленный по рецепту",
+        "Calories": "186 кКал",
+        "Proteins": "0,06 г",
+        "Fats": "0,06 г",
+        "Carbohydrates": "6,84 г"
+    },
+    {
+        "Title": "Джин, ром, водка, виски, дистиллированные, 100 градусов (50 проц. спирта)",
+        "Calories": "295 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Джин, ром, водка, виски, дистиллированные, 80 градусов (40 проц. спирта)",
+        "Calories": "231 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Джин, ром, водка, виски, дистиллированные, 86 градусов (43 проц. спирта)",
+        "Calories": "250 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0,1 г"
+    },
+    {
+        "Title": "Джин, ром, водка, виски, дистиллированные, 90 градусов (45 проц. спирта)",
+        "Calories": "263 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Джин, ром, водка, виски, дистиллированные, 94 градуса (47 проц. спирта)",
+        "Calories": "275 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Коктейль, Виски Сауэр, консервированный",
+        "Calories": "119 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "13,3 г"
+    },
+    {
+        "Title": "Коктейль, Виски Сауэр, приготовленный из виски и воды",
+        "Calories": "164 кКал",
+        "Proteins": "0,1 г",
+        "Fats": "0,02 г",
+        "Carbohydrates": "15,85 г"
+    },
+    {
+        "Title": "Коктейль, Виски Сауэр, приготовленный из продукта N14028",
+        "Calories": "153 кКал",
+        "Proteins": "0,06 г",
+        "Fats": "0,06 г",
+        "Carbohydrates": "12,82 г"
+    },
+    {
+        "Title": "Коктейль, Виски Сауэр, приготовленный из продукта N14530",
+        "Calories": "149 кКал",
+        "Proteins": "0 г",
+        "Fats": "0,03 г",
+        "Carbohydrates": "13,17 г"
+    },
+    {
+        "Title": "Коньяк ординарный «три звездочки»",
+        "Calories": "239 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "1,5 г"
+    },
+    {
+        "Title": "Ликер Вишневый",
+        "Calories": "299 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "40 г"
+    },
+    {
+        "Title": "Ликер, Creme de Menthe (Мятный Крем Зеленый), 72 градуса (36 проц спирта)",
+        "Calories": "371 кКал",
+        "Proteins": "0 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "41,6 г"
+    },
+    {
+        "Title": "Ликер, кофе со сливками, 34 градуса (17 проц. спирта)",
+        "Calories": "327 кКал",
+        "Proteins": "2,8 г",
+        "Fats": "15,7 г",
+        "Carbohydrates": "20,9 г"
+    },
+    {
+        "Title": "Ликер, кофейный, 53 градусов (26,5 проц. спирта)",
+        "Calories": "336 кКал",
+        "Proteins": "0,1 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "46,8 г"
+    },
+    {
+        "Title": "Ликер, кофейный, 63 градуса (31,5 проц. спирта)",
+        "Calories": "308 кКал",
+        "Proteins": "0,1 г",
+        "Fats": "0,3 г",
+        "Carbohydrates": "32,2 г"
+    },
+    {
+        "Title": "Наливка «Сливянка»",
+        "Calories": "215 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "28 г"
+    },
+    {
+        "Title": "Настойка горькая \"Русский сувенир\"",
+        "Calories": "248 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "6,4 г"
+    },
+    {
+        "Title": "Пиво Жигулёвское",
+        "Calories": "37 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "0 г",
+        "Carbohydrates": "4,8 г"
+    },
+    {
+        "Title": "Пиво светлое, с долей сухих в-в в исходном сусле 11%",
+        "Calories": "42 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "0 г",
+        "Carbohydrates": "4,6 г"
+    },
+    {
+        "Title": "Пиво светлое, с долей сухих в-в в исходном сусле 20%",
+        "Calories": "75 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0 г",
+        "Carbohydrates": "7,6 г"
+    },
+    {
+        "Title": "Пиво темное, с долей сухих в-в в исходном сусле 13%",
+        "Calories": "48 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "0 г",
+        "Carbohydrates": "5,7 г"
+    },
+    {
+        "Title": "Пиво темное, с долей сухих в-в в исходном сусле 20%",
+        "Calories": "74 кКал",
+        "Proteins": "0,4 г",
+        "Fats": "0 г",
+        "Carbohydrates": "8,7 г"
+    },
+    {
+        "Title": "Пиво, обычное, BUDWEISER",
+        "Calories": "41 кКал",
+        "Proteins": "0,36 г",
+        "Fats": "0 г",
+        "Carbohydrates": "2,97 г"
+    },
+    {
+        "Title": "Пиво, обычное, все виды",
+        "Calories": "43 кКал",
+        "Proteins": "0,46 г",
+        "Fats": "0 г",
+        "Carbohydrates": "3,55 г"
+    },
+    {
+        "Title": "Пиво, светлое",
+        "Calories": "29 кКал",
+        "Proteins": "0,24 г",
+        "Fats": "0 г",
+        "Carbohydrates": "1,64 г"
+    },
+    {
+        "Title": "Пиво, светлое, BUD LIGHT",
+        "Calories": "29 кКал",
+        "Proteins": "0,25 г",
+        "Fats": "0 г",
+        "Carbohydrates": "1,3 г"
+    },
+    {
+        "Title": "Пиво, светлое, BUDWEISER SELECT",
+        "Calories": "28 кКал",
+        "Proteins": "0,2 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0,87 г"
+    },
+    {
+        "Title": "Пиво, светлое, MICHELOB ULTRA",
+        "Calories": "27 кКал",
+        "Proteins": "0,17 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0,73 г"
+    },
+    {
+        "Title": "Пинаколада, консервированная",
+        "Calories": "237 кКал",
+        "Proteins": "0,6 г",
+        "Fats": "7,6 г",
+        "Carbohydrates": "27,5 г"
+    },
+    {
+        "Title": "Пинаколада, приготовленная по рецепту",
+        "Calories": "174 кКал",
+        "Proteins": "0,42 г",
+        "Fats": "1,88 г",
+        "Carbohydrates": "22,36 г"
+    },
+    {
+        "Title": "Ром, дистиллированный, 80 градусов (40 проц. спирта)",
+        "Calories": "231 кКал",
+        "Proteins": "0 г",
+        "Fats": "0 г",
+        "Carbohydrates": "0 г"
+    },
+    {
+        "Title": "Саке, рисовая водка",
+        "Calories": "134 кКал",
+        "Proteins": "0,5 г",
+        "Fats": "0 г",
+        "Carbohydrates": "5 г"
+    },
+    {
+        "Title": "Текила Санрайз, консервированная",
+        "Calories": "110 кКал",
+        "Proteins": "0,3 г",
+        "Fats": "0,1 г",
+        "Carbohydrates": "11,3 г"
+    }
+]
